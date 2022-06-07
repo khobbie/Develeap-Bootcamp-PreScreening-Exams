@@ -1,0 +1,1 @@
+In the log file there are consistent messages for every transaction start and end. How many transactions are in the logfile
